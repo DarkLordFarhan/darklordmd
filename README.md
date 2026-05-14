@@ -1,0 +1,1 @@
+Pterodactyl-ready DarklordMD with pairing notifications and logo support.
