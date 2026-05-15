@@ -1,0 +1,14 @@
+{
+  "name": "darklordmd-v5.7",
+  "version": "5.7.1",
+  "description": "DarklordMD WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "7.0.0-rc11",
+    "express": "^4.19.2",
+    "pino": "^9.0.0"
+  }
+}
